@@ -8,7 +8,7 @@ Spring Boot 2.1.4.RELEASE
 Spring 5.1.6.RELEASE 
 Angular
 JDK 1.8
-Eclipse Oxygen
+Netbeans Ide 11.2
 Bootstrap
 Thymeleaf
 H2DB -in memory database
